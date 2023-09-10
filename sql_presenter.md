@@ -58,7 +58,7 @@ The rodents are sampled on a series of 24 plots, with different
 experimental manipulations of which rodents are allowed to access the plots.
 
 This is a real dataset that has been used in over 100 publications.
-It's been simplified just a little bit for the workshop,
+It's been simplified just a little bit for the class,
 but you can download the [full dataset](http://esapubs.org/archive/ecol/E090/118/)
 and work with it using exactly the same tools we'll learn about today.
 
