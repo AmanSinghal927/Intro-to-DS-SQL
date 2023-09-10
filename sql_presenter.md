@@ -33,11 +33,10 @@ __Database managers__
   *Databases: Step 1: data is already indexed, so move right to selecting and filtering data!!
   
 __SQL__
-* MySQL most popular database system for bioinformatics
+* MySQL most popular database system for analytics
 * FREE!
-* Many Genome browsers, Entrez, Ensembl, Gene Ontology use MySQL to run Web Portals
 * Can update, modify tables, save queries (repetitive tasks)
-* Combine database skillz with programming environments
+* Combine database skills with programming environments
   * Now you are omnipotent!
 
 
